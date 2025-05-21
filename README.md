@@ -5,3 +5,7 @@ Excluding rebate of 2% per centigrade of cooling below expected return temperatu
 E.g. rebate for cooling supply at 75C down to 28C is $(34C-28C)*0.02*cost_{kWh}=0.119 DKK/kWh$. Based on values from [Aalborg Forsyning - Varmeudnyttelsestakst 2024](https://www.aalborgforsyning.dk/media/wusbcmtr/aalborg-varme-leveringsbestemmelser-tillaeg-til-bilag-2-varmeudnyttelsestakst-1-juli-2024-endeligversion-16042024-1.pdf). 
 
 ![example figure](example.png)
+
+
+## Future
+- Could be nice to estimate R-value of house given past years utility usage
